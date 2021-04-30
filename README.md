@@ -19,8 +19,10 @@ Ele irá ter a chamado do runApp()
     );
 
 # II - Dependências 
-  commons_dependencies:
-    path: '../commons_dependencies'
+  commons:
+    git:
+      url: https://github.com/toshiossada/microapp_commons.git
+      ref: v1.0.0
   core:
     path: '../core'
     

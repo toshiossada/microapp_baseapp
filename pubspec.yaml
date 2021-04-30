@@ -14,12 +14,14 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   commons_dependencies:
-    path: '../commons_dependencies'
-    # git:
-    #   url: 
-    #   ref: v1.0.0
+    git:
+      url: https://github.com/toshiossada/microapp_commons_dependencies.git
+      ref: v1.0.0
   core:
-    path: '../core'
+    git:
+      url: https://github.com/toshiossada/microapp_core.git
+      ref: v1.0.0
+
 
 dev_dependencies:
   flutter_test:
