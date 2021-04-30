@@ -143,13 +143,13 @@ Neste projeto foram utilizados alguns pacotes
 
 A estrutura do projeto esta em monorepo e suas funcionalidade(módulos) quebrado por packages.
 
-- [base_app](./example/base_app)
-- [commons](./example/commons)
-- [commons_dependencies](./example/commons_dependencies)
-- [core](./example/core)
-- [module_home](./example/module_home)
-- [module_login](./example/module_login)
-- [module_splash](./example/module_splash)
+- [base_app](https://github.com/toshiossada/microapp_baseapp)
+- [commons](https://github.com/toshiossada/microapp_commons)
+- [commons_dependencies](https://github.com/toshiossada/microapp_commons_dependencies)
+- [core](https://github.com/toshiossada/microapp_core)
+- [module_home](https://github.com/toshiossada/microapp_module_home)
+- [module_login](https://github.com/toshiossada/micoappp_module_login)
+- [module_splash](https://github.com/toshiossada/micoappp_module_splash)
 
 ![Estrutura](https://live.staticflickr.com/65535/51148279724_7e201d556b_b.jpg)
 
